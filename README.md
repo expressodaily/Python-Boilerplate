@@ -1,4 +1,4 @@
-### Python Boilerplate
+Python Boilerplate
 ==========================
 
 Features:
