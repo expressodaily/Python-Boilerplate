@@ -1,5 +1,5 @@
 
-# Python Boilerplate
+## Python Boilerplate
 
 Features:
 * Editable install support
